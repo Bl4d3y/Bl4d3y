@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Bl4d3y/Bl4d3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I’m constantly experimenting, building, and improving my projects — feel free to explore and see what I’ve been working on.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Current Focus
+- **💻 Working on:** **Vanguard Operator Network (V.O.N)** – a Roblox anti-cheat that detects executor functions in real time.
+- **📚 Learning:** C++, C#, Java
+- **🤝 Open to:** Collaborating on exciting and challenging projects.
+- **⚡ Fun fact:** Strong background in Object-Oriented Programming (OOP) principles.
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, Lua, JavaScript, HTML/CSS
+- **Tools & Frameworks:** Flask, TailwindCSS, Discord API, Roblox Studio
+- **Other Skills:** API development, game scripting, automation systems
+
+---
+
+### 📫 Connect With Me
+- **Discord:** `nevrloose`
+
+---
+
+> *"God is an audience to my programming."* – Terry A. Davis
