@@ -6,7 +6,7 @@ I’m constantly experimenting, building, and improving my projects — feel fre
 ---
 
 ### 🔥 Current Focus
-- **💻 Working on:** **Vanguard Operator Network (V.O.N)** – a Roblox anti-cheat that detects executor functions in real time.
+- **💻 Working on:** **Elysium External** – a Roblox external 
 - **📚 Learning:** C++, C#, Java
 - **🤝 Open to:** Collaborating on exciting and challenging projects.
 - **⚡ Fun fact:** Strong background in Object-Oriented Programming (OOP) principles.
